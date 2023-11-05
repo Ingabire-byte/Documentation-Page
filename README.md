@@ -1,2 +1,2 @@
-# Documentation-Page
-Documentation
+# Documentation-page
+Technical documentation page to serve as referrence.
